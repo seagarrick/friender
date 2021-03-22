@@ -30,7 +30,7 @@ class UserPost extends React.Component {
                 </Grid>
                 <Grid container style={postTextStyle}>
                     <ListItemText primary={this.props.postText} secondary={this.props.postDate}>
-                        
+
                     </ListItemText>
                 </Grid>
             </Paper>
@@ -38,3 +38,4 @@ class UserPost extends React.Component {
     }
 }
 
+export default UserPost;
