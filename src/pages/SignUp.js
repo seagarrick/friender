@@ -71,7 +71,7 @@ class SignUp extends React.Component {
                                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu facilisis lectus, sit amet commodo ante. Vivamus viverra maximus enim ac eleifend. Vestibulum neque nisl, scelerisque sit amet ullamcorper vel, tempus viverra dolor. Sed eu lacus in leo iaculis euismod in vitae felis. 
 
                                 </h3>
-                                <img src="https://images.unsplash.com/photo-1616095653157-36fae98bdcea" alt="repeating pattern of tomatoes on vine"/>
+                                <img src="https://images.unsplash.com/photo-1616095653157-36fae98bdcea" alt="repeating pattern of tomatoes on vine" height="250vh" width="250vw" margin="60px"/>
                             </div>
                         </Paper>
                     </Grid>
